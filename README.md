@@ -68,8 +68,4 @@
 
 > 💬 *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/e-mar1/e-mar1/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
